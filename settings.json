@@ -8,7 +8,7 @@
   "server": {
     "ip": "hillcrestsurvival.aternos.me",
     "port": 14473,
-    "version": "",
+    "version": "1.12.1",
     "try-creative": false
   },
   "position": {
